@@ -1,0 +1,9 @@
+{
+    "jupyter.jupyterServerType": "local",
+    "python.formatting.autopep8Path": "/opt/anaconda3/lib/python3.9/site-packages/autopep8",
+    "python.formatting.provider": "black",
+    "AREPL.envFile": "/opt/anaconda3",
+    "AREPL.pythonPath": "/opt/anaconda3/bin/python",
+    "AREPL.delay": 3000,
+    "AREPL.keepPreviousVars": true
+}
